@@ -83,10 +83,10 @@ export const skillsData = [
   // "Django",
   // "Framer Motion",
 ] as const;
-export const firstName: String = "Name" as const
-export const major: String = "Major" as const
-export const year: String = "0th year" as const
+export const firstName: String = "Audrey Fuller" as const
+export const major: String = "Computer Science" as const
+export const year: String = "3rd year" as const
 export const loveToDo = "Something" as const
-export const email = "example@gmail.com" as const
+export const email = "alyn.fuller@gmail.com" as const
 export const linkedin = "https://www.linkedin.com" as const
 export const github = "https://www.github.com" as const
